@@ -1,6 +1,4 @@
-# Mapbox React Demo
-
-Video available at: https://youtu.be/JJatzkPcmoI
+# Mapbox React 
 
 ## Running Locally
 
